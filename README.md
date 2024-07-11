@@ -1,10 +1,9 @@
-   # Phoenix-MD 
+   # Yasir-01 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+Phoenix-MD;Multi+Divice+Whatsapp+Bot;Coded+By+Abhishek Suresh" alt="Typing SVG" /></a>
   
 <p align="center">  
   <a href="https://youtube.com/channel/UCLUS9v7q4JagAqIJ3eeMM8w">
-    <img alt=Phoenix-MD height="300" src="https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg">
+    <img alt=Phoenix-MD height="300" src="https://wallpaper.com.pk/wp-content/uploads/2024/01/3b47d189-360a-4c3b-ba81-c69c1ecf919a.jpeg">
    
 </a> 
     
@@ -13,9 +12,7 @@
 <a 
 
 ####  
-Phoenix-MD Multi Device Whatsapp Bot.
-## <sub>[External Plugins](https://github.com/AbhishekSuresh2/External-Plugins)</sub>
-
+Yasir-01 Multi Device Whatsapp Bot.
 ***
 
 #### SETUP
@@ -51,8 +48,6 @@ Fork The Repo
 <a href="https://railway.app/new"><img title="Phoenix-MD Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a> 
  
  ## Support
-
-SUPPORT GROUP: <a href="https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 **Star ⭐ The Repo For Amazing Commands**
 
